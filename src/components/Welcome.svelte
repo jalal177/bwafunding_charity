@@ -14,7 +14,7 @@
       </div>
       <div class="xs-black-overlay" />
     </div>
-    <div class="xs-welcome-content" style="background-image: url(assets/images/slide2.png);">
+    <!-- <div class="xs-welcome-content" style="background-image: url(assets/images/slide2.png);">
       <div class="container">
         <div class="xs-welcome-wraper color-white">
           <h2>Let's free the nature at all</h2>
@@ -33,6 +33,6 @@
         </div>
       </div>
       <div class="xs-black-overlay" />
-    </div>
+    </div> -->
   </div>
 </section>
