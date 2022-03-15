@@ -1,7 +1,8 @@
+[build]
+    function = "./function"
+    
 [[redirects]]
 from = "/*"
 to = "/index.html"
 status = 200
 
-[build]
-    function = "./function"
