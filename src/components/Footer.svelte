@@ -9,20 +9,20 @@
           </a>
           <p>CharityPress online and raise money for charity and causes you’re passionate about. CharityPress is an innovative, cost-effective online.</p>
           <ul class="xs-social-list-v2">
-            <li><a href="" class="color-facebook"><i class="fa fa-facebook" /></a></li>
-            <li><a href="" class="color-twitter"><i class="fa fa-twitter" /></a></li>
-            <li><a href="" class="color-dribbble"><i class="fa fa-dribbble" /></a></li>
-            <li><a href="" class="color-pinterest"><i class="fa fa-pinterest" /></a></li>
+            <li><a href="/" class="color-facebook"><i class="fa fa-facebook" /></a></li>
+            <li><a href="/" class="color-twitter"><i class="fa fa-twitter" /></a></li>
+            <li><a href="/" class="color-dribbble"><i class="fa fa-dribbble" /></a></li>
+            <li><a href="/" class="color-pinterest"><i class="fa fa-pinterest" /></a></li>
           </ul><!-- .xs-social-list END -->
         </div>
         <div class="col-lg-4 col-md-6 footer-widget">
           <h3 class="widget-title">About Us</h3>
           <ul class="xs-footer-list">
             <li><a href="/">About employee</a></li>
-            <li><a href="#">How it works</a></li>
-            <li><a href="#">Careers</a></li>
-            <li><a href="#">Press</a></li>
-            <li><a href="#">Blog</a></li>
+            <li><a href="/">How it works</a></li>
+            <li><a href="/">Careers</a></li>
+            <li><a href="/">Press</a></li>
+            <li><a href="/">Blog</a></li>
             <li><a href="/contact">Contact</a></li>
           </ul>
         </div>
@@ -48,9 +48,9 @@
         <div class="col-md-6">
           <nav class="xs-footer-menu">
             <ul>
-              <li><a href="#">FAQ</a></li>
-              <li><a href="#">Help Desk</a></li>
-              <li><a href="#">Support</a></li>
+              <li><a href="/">FAQ</a></li>
+              <li><a href="/">Help Desk</a></li>
+              <li><a href="/">Support</a></li>
             </ul>
           </nav>
         </div>
